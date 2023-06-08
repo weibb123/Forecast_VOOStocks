@@ -3,3 +3,4 @@ yfinance==0.2.20
 seaborn==0.12.2
 prophet==1.1.4
 matplotlib==3.4.3
+numpy==1.22.3
