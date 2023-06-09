@@ -1,12 +1,9 @@
 import streamlit as st
 import yfinance as yf
 import pandas as pd
-import seaborn as sns
 import json
-import numpy as np
 from prophet import Prophet
 from prophet.serialize import model_to_json, model_from_json
-from matplotlib import pyplot as plt
 from util import transform_data
 
 # Update daily via Yahoo API
