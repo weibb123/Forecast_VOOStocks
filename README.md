@@ -9,6 +9,7 @@
   - [Tech Stack](#tech-stack)
   - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
+  - [Evaluation](#Evaluation)
   - [Reference](#reference)
 
     ## Business problem
@@ -44,7 +45,7 @@
   ## Limitation and what can be improved
     Forecasting deep into the future might not correspond to the actual stocking price. Instead, it might be a good approach to focus on forecasting the next couple days or weeks.
 
-  ## [Evaluation](#Evaluation)
+  ## Evaluation
 
     Metric used: Mean_absolute_error, and the reported mean_aboslute_error is ![image](https://github.com/weibb123/Forecast_VOOStocks/assets/84426364/d58a769b-1d1a-4d7e-8f2d-304d7dc22e80).
 
