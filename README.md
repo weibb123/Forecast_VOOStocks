@@ -1,5 +1,8 @@
 # Forecast_VOOStocks
 
+![image](https://github.com/weibb123/Forecast_VOOStocks/assets/84426364/1b45587f-8d25-4697-9279-7c8f880cc313)
+
+
 
 ## Table of Contents
 
