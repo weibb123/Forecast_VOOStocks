@@ -56,19 +56,19 @@
 
     What is good about Prophet:
     
-      Good for data that has daily, weekly, yearly seasonality..
+      1.Good for data that has daily, weekly, yearly seasonality..
     
-      robust to outliers
+      2.robust to outliers
 
-      relatively computationally efficient
+      3.relatively computationally efficient
 
-      use it when data has large mean shift
+      4.use it when data has large mean shift
     
     What is not good about Prophet:
     
-      Below performance compared to ARIMA on situation where peak predictive performance is important
+      1.Below performance compared to ARIMA on situation where peak predictive performance is important
     
-      only appropiate for univerate time series and cannot account multiple correlated time series
+      2. only appropiate for univerate time series and cannot account multiple correlated time series
 
 
     ## Evaluation
