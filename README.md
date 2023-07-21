@@ -41,6 +41,7 @@
     ## Lessons learned and recommendation
      Key lesson: forecasting stock is a difficult task, not that it is impossible.
       ![image](https://github.com/weibb123/Forecast_VOOStocks/assets/84426364/7c8fadef-9e71-4fa7-a1f6-ca209e82ab0e)
+    
         By looking at the forecasting, we see that the trendline goes in a wave pattern. In some sense, it shows that VOO stock is a relatively stable stock. However, looking at the graph, the model didn't   
        expect the recessions or covid period. Hence, My takeway is that VOO stock will yield stable returns if theres exist no events that damage the US market.
 
@@ -48,8 +49,8 @@
     
     ## Limitation and what can be improved
   
-      Forecasting near future not deep future
-        Forecasting deep into the future might not correspond to the actual stocking price. Instead, it might be a good approach to focus on forecasting the next couple days or weeks.
+    Forecasting near future not deep future
+    Forecasting deep into the future might not correspond to the actual stocking price. Instead, it might be a good approach to focus on forecasting the next couple days or weeks.
 
     Forecasting Prophet can have some drawbacks...
 
