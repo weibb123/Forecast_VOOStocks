@@ -51,6 +51,25 @@
       Forecasting near future not deep future
         Forecasting deep into the future might not correspond to the actual stocking price. Instead, it might be a good approach to focus on forecasting the next couple days or weeks.
 
+    Forecasting Prophet can have some drawbacks...
+
+    What is good about Prophet:
+    
+      Good for data that has daily, weekly, yearly seasonality..
+    
+      robust to outliers
+
+      relatively computationally efficient
+
+      use it when data has large mean shift
+    
+    What is not good about Prophet:
+    
+      Below performance compared to ARIMA on situation where peak predictive performance is important
+    
+      only appropiate for univerate time series and cannot account multiple correlated time series
+
+
     ## Evaluation
 
       Metric used: Mean_absolute_error, and the reported mean_aboslute_error is...\
